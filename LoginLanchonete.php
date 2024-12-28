@@ -58,6 +58,7 @@
             <input type="text" name="username" placeholder="Usuário" required>
             <input type="password" name="password" placeholder="Senha" required>
             <input type="submit" value="Entrar">
+             <p>Utilize "lanchonete" para login e senha</p>
         </form>
     </div>
 </body>
